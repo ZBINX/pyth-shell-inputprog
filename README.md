@@ -1,2 +1,2 @@
 # pyth-shell-inputprog
-Program that executes shell commands via python code
+various Programs that execute shell commands via python code
